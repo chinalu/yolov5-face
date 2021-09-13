@@ -1,7 +1,7 @@
 ## Get start
 
 ```
-git clone https://github.com/chinalu/yolov5-face.git
+git clone https://github.com/deepcam-cn/yolov5-face.git
 cd yolov5-face
 virtualenv -p python3 venv
 pip install -r requirement.txt
