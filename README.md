@@ -1,3 +1,12 @@
+## Get start
+
+```
+git clone https://github.com/chinalu/yolov5-face.git
+cd yolov5-face
+virtualenv -p python3 venv
+pip install -r requirement.txt
+```
+
 ## What's New
 
 **2021.08**: Yolov5-face to TensorRT.  
