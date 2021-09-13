@@ -1,0 +1,11 @@
+thop
+seaborn
+pandas
+matplotlib
+opencv-python
+opencv-contrib-python
+torch
+torchvision
+requests
+tqdm
+pyyaml
