@@ -4,6 +4,7 @@
 git clone https://github.com/chinalu/yolov5-face.git
 cd yolov5-face
 virtualenv -p python3 venv
+source ./venv/bin/activate
 pip install -r requirement.txt
 ```
 
